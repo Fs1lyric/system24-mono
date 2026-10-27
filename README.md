@@ -1,6 +1,6 @@
 # system24 mono
 
-A black and white flavor of [system24](https://github.com/refact0r/system24), the TUI-style Discord theme by refact0r.
+ the TUI-style Discord theme mono style.
 
 - Pure black background with grey panels and white accents
 - DM Mono at a light weight
@@ -38,10 +38,6 @@ The theme uses [DM Mono](https://fonts.google.com/specimen/DM+Mono). Install it 
 ## Customizing
 
 Every option sits in the `body` and `:root` blocks at the top of the file. The colors are in `:root` under `/* color options */`.
-
-## Credits
-
-Built on [system24](https://github.com/refact0r/system24) by [refact0r](https://www.refact0r.dev). The theme loads system24's base styles from refact0r's site and only replaces the options and colors.
 
 ## License
 
